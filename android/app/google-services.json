@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348437953470",
+    "project_id": "asap-app-b8e5d",
+    "storage_bucket": "asap-app-b8e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348437953470:android:875a0db523e7374f7197ef",
+        "android_client_info": {
+          "package_name": "com.nestorDev.asap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348437953470-959vjf6sgq41g9thd7kkelnecp88jg34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nestorDev.asap_app",
+            "certificate_hash": "143962bad9d779c10c2e4bdc93ec05368903883e"
+          }
+        },
+        {
+          "client_id": "348437953470-01h3qu40ampm7ei2f101qckl0v41beb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz0agzgEbw3VgdarbYyHlg-tcGxyGeEAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348437953470-01h3qu40ampm7ei2f101qckl0v41beb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
